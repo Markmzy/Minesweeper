@@ -19,37 +19,36 @@
 
 #include "MyAI.hpp"
 
-MyAI::MyAI ( int _rowDimension, int _colDimension, int _totalMines, int _agentX, int _agentY ) : Agent()
+MyAI::MyAI(int _rowDimension, int _colDimension, int _totalMines, int _agentX, int _agentY) : Agent()
 {
     // ======================================================================
     // YOUR CODE BEGINS
     // ======================================================================
-
+    rowDimension = _rowDimension;
+    colDimension = _colDimension;
+    totalMines = _totalMines;
+    agentX = _agentX;
+    agentY = _agentY;
     // ======================================================================
     // YOUR CODE ENDS
     // ======================================================================
 };
 
-Agent::Action MyAI::getAction( int number )
+Agent::Action MyAI::getAction(int number)
 {
     // ======================================================================
     // YOUR CODE BEGINS
     // ======================================================================
 
-
-    return {LEAVE,-1,-1};
+    return {LEAVE, -1, -1};
     // ======================================================================
     // YOUR CODE ENDS
     // ======================================================================
-
 }
-
 
 // ======================================================================
 // YOUR CODE BEGINS
 // ======================================================================
-
-
 
 // ======================================================================
 // YOUR CODE ENDS
