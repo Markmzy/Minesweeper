@@ -35,3 +35,6 @@ submission: all
 	@read -p "Enter Team Name (No spaces, '_', '/', '*'): " teamName; \
 	 echo ""; \
 	 zip -rqq s_$${teamName}.zip $(SOURCE_DIR) $(BIN_DIR)
+
+clean:
+	@rm -rf $(BIN_DIR)
