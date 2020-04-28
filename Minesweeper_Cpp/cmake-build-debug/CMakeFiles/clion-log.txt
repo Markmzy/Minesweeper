@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Markmzy/Desktop/Minesweeper/Minesweeper_Cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Markmzy/Desktop/Minesweeper/Minesweeper_Cpp/cmake-build-debug

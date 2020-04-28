@@ -1,0 +1,3 @@
+/Users/Markmzy/Desktop/Minesweeper/Minesweeper_Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Markmzy/Desktop/Minesweeper/Minesweeper_Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Markmzy/Desktop/Minesweeper/Minesweeper_Cpp/cmake-build-debug/CMakeFiles/Minesweeper_Cpp.dir
